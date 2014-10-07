@@ -1,1 +1,9 @@
 C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\bin\Debug\EventCreator.exe.config
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\bin\Debug\EventCreator.exe
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\bin\Debug\EventCreator.pdb
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\obj\Debug\EventCreator.csprojResolveAssemblyReference.cache
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\obj\Debug\EventCreator.frmMain.resources
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\obj\Debug\EventCreator.Properties.Resources.resources
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\obj\Debug\EventCreator.csproj.GenerateResource.Cache
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\obj\Debug\EventCreator.exe
+C:\Users\Thoma_000\Desktop\NoSync School\ActualEventMaker\SolomonEventCreator\EventCreator\EventCreator\obj\Debug\EventCreator.pdb
